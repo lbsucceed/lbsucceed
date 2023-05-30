@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning the java and android .
 
-有一个博客，最近学了一些东西，也逐渐开始写点有意思的玩意，分享一下自己学编程的苦痛之路， [博客](https://www.cnblogs.com/erisu).
+喜欢看番，打游戏
+
+有一个博客，最近学了一些东西，也逐渐开始写点有意思的玩意，分享一下自己学编程的苦痛之路， [博客](https://www.cnblogs.com/erisu).可惜太懒了，不过我坚信，以后一定可以弄一个有水平的项目
 
 
 
